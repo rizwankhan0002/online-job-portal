@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAVa1Zy3J0giSoE5EQwxt-Ov-46ybd9tAc",
+  
   authDomain: "online-job-portal-fd4fc.firebaseapp.com",
   projectId: "online-job-portal-fd4fc",
   storageBucket: "online-job-portal-fd4fc.appspot.com",
